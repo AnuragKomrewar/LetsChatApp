@@ -1,5 +1,5 @@
 # <h1 align = "center">LETS CHAT APP</h1>
-### <h3 align= "center">Simple firebase based Android app for chatting with friends</h1>
+### <h3 align= "center">Simple firebase based real time Android chatting app</h1>
 <img src="Screenshots/Login Page.jpg" width="200"> &nbsp; <img src="Screenshots/Register Page.jpg" width="200"> &nbsp; <img src="Screenshots/Friend Requests Page.jpg" width="200"> &nbsp; <img src="Screenshots/Chats Page.jpg" width="200"> &nbsp; 
 #
 <img src="Screenshots/Friends Page.jpg" width="200"> &nbsp; <img src="Screenshots/Chat.jpg" width="200"> &nbsp; <img src="Screenshots/All Users.jpg" width="200"> &nbsp; <img src="Screenshots/More Options page.jpg" width="200"> &nbsp; 
